@@ -1,0 +1,12 @@
+REPO_TAGLINE: Microelectronic devices • fabrication • CMOS basics
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/SEL0617-Fundamentos-Microeletronica
+
+BG_1: "#1A1A0E"
+BG_2: "#3A3A1B"
+TEXT_MAIN: "#FFFFE0"
+TEXT_MUTED: "#D1D1A3"
+ACCENT: "#EAB308"
+CARD_RADIUS: "18"
