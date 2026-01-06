@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/SEL0617-Fundamentos-de-Microeletronica">
-    <img src=".github/readme/hero.svg?v=2026-01-06T02:58:33.232250Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-06T14:27:02.271990Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
